@@ -1,0 +1,4 @@
+10 100 100 125
+still point 2 5 10 10 0
+still point 7 3 50 50 0
+still point 1 10 20 20 0
