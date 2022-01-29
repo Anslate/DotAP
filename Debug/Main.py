@@ -1,5 +1,3 @@
-from base64 import decode
-from email import header
 from PIL import Image,ImageDraw
 image = []
 image_draw = []
