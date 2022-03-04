@@ -1,3 +1,5 @@
-2 100 100 125
-create point A_point 1 50 50 10
-A_point still 2
+10 100 100 125
+create point A_point 1 0 0 10
+A_point move 3 70 70
+A_point still 2 
+A_point move 5 0 0 
